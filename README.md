@@ -4,6 +4,8 @@
   email:    "ashley.dallessandro@gmail.com",
   position: "Full Time Student at Coding Dojo",
   location: "Dublin, Ca" }
+  
+  Currently a full time student learning full stack web development!
 
 
 <!--
