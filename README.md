@@ -1,4 +1,10 @@
 ### Hi there 👋
+{ name: "Ashley D'Allessandro"
+  pronouns: ["she", "her", "hers"]
+  email:    "ashley.dallessandro@gmail.com",
+  position: "Full Time Student at Coding Dojo",
+  location: "Dublin, Ca" }
+
 
 <!--
 **Ash-Renee/Ash-Renee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
