@@ -6,3 +6,5 @@
   Languages: "HTML/CSS, Python, Java, MERN";
   location: "Dublin, Ca" }
   ```
+
+A copy of my resume has been posted for your convenience at: https://github.com/Ash-Renee/Resume/blob/main/Ashley%20D'Allessandro.pdf
